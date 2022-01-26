@@ -8,9 +8,9 @@ The notebook AnalyzeCovid19.ipynb contains a simple processing pipeline for anal
 # Sample Output Plots
 Here are a few sample plots that this pipeline will produce including a bar graph with the top-20 death totals by country, line plots of the 7-day moving average of new cases, and a scatterplot of new cases vs. new deaths
 
-![top-20 deaths by country](/images/screenshot_deaths-by-country.png)
-![7-day moving average new cases](/images/screenshot_new-daily-cases.png)
-![new cases vs. new deaths](/images/screenshot_new-cases-vs-new-deaths.png)
+![top-20 deaths by country](/screenshot_deaths-by-country.png)
+![7-day moving average new cases](/screenshot_new-daily-cases.png)
+![new cases vs. new deaths](/screenshot_new-cases-vs-new-deaths.png)
 
 
 #### To run this notebook, please change the global destination folder as needed for your computer just below the list of imported libraries.
